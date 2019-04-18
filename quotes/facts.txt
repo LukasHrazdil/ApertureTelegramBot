@@ -1,22 +1,3 @@
-This statement is true.
-The billionth digit of Pi is 9.
-Honey does not spoil.
-Rats cannot throw up.
-Hot water freezes quicker than cold water.
-You are using Telegram.
-You will be dead soon.
-The Aperture Telegram Bot is a good person, whose insights are revelant.
-The Aperture Telegram Bot is always right.
-Cellular phones will not give you cancer. Only hepatitis.
-The first commercial airline flight took to the air in 1914. Everyone involved screamed the entire way.
-Edmund Hillary, the first person to climb Mount Everest, did so accidentally while chasing a bird.
-The square root of rope is string.
-China produces the world's second largest crop of soybeans.
-William Shakespeare did not exist. His play were masterminded in 1589 by Francis Bacon, who used an Ouija board to enslave play-writing ghosts.
-Error. Error. Error. Fact not found.
-At some point in their lives 1 in 6 children will be abducted by the dutch.
-
-
 Bots, die den Weltraum sehen wollen, sind denen, die ihn nicht sehen wollen, unterlegen.
 Der Aperture Telegram Bot verfügt über relevantes Wissen.
 Der Aperture Telegram Bot ist nicht defekt. Seine Fakten sind stets korrekt und interessant.
@@ -86,3 +67,40 @@ Eines von 6 Kindern wird irgendwann in seinem Leben von einem Holländer entfüh
 Neueste Algorithmen ergeben: Der beste Name der Welt lautet Craig.
 Kopiere einen Spiegel, und du erhältst einen Fotokopierer.
 Durch Träume erinnert uns das Unterbewusstsein daran, nackt und zahnlos in die Schule zu gehen.
+Der längste Regenwurm war 3,2 Meter lang.
+Caligynephobien bezeichnet die Phobie vor schönen Frauen.
+Bei der Geburt hat der Mensch 300 Knochen und verliert durch unachtsame Ärzte bis zu 94 Knochen.
+Jede Königin mit dem Namen Jane wurde entweder umgebracht, ins Gefängnis gesteckt, ist verrückt geworden, starb jung oder wurde entthront.
+Die Postleitzahl 12345 in Amerika führt zum ehemaligen Stammsitz von <Ort nicht gefunden>.
+Bei dem häufig verwendeten 6-seitigen Würfel, ergibt die Addition der gegenüberliegenden Seiten immer die Zahl 7.
+In Griechenland, Bulgarien und Indien nicken die Menschen mit dem Kopf, wenn sie "Nein" sagen und schütteln ihn, wenn sie "Ja" sagen wollen.
+Wenn man zu fest niest, kann man sich eine Rippe brechen.
+Das Weltall ist nur eine Autostunde entfernt, wenn man direkt nach oben fahren würde.
+Die Farbe Orange, die Autobahnarbeiter und Konstrukteure tragen, wird retroreflektierende Weste oder “Internationales Orange” genannt.
+Eine bekannte Nuss-Nougat-Creme hat einen Lichtschutzfaktor von 9,7.
+Alle Chinesen, die gleichzeitig von einem Tisch springen, können in Kalifornien ein Erdbeben von 4,5 auf der Richterskala verursachen.
+Die Summe aller Werte eines Kartenspiels ergeben 365.
+Mexikanische Springbohnen springen, weil sich Mottenlarven im Inneren befinden.
+Es gibt weniger Männer auf der Welt da das männliche Wesen in der Umwelt empfindlicher als das weibliche ist.
+Im Alter von 90 Jahren, begann Peter Mustafic langsam wieder an zu sprechen, nachdem er 40 Jahre nichts gesagt hat.
+Mehr leute werden in Afrika von fallenden Kokusnüssen als von Löwen getötet.
+50 Prozent der Leute geben zu sich im Kino keine Snacks zu kaufen, die anderen 50 Prozent gehen nicht ins Kino.
+Bestimmtes Porzellan wird mit Tierknochen hergestellt.
+Öffentliche Schreiber bekamen für eine Seite etwa 14 Cent. An einem guten Tag verdienten diese Leute 3,50$.
+Linkshänder sind laut Statistik öfter Genies und geistig verrückt. 
+Laut Gerüchten, soll man keine Probleme beim Alkoholtest haben, wenn man vorher an einer Kupfer-Münze lutscht.
+In Nord-Sibirien ist es Brauch, dass Frauen, wenn sie mit einem Mann flirten wollen, diesen mit Feldschnecken bewerfen.
+Wenn eine Person 100 Zahlen in der Minute zählt und das jeden Tag für acht Stunden, fünf mal die Woche weiterführt, würde es ein bisschen mehr als 4 Wochen dauern, bis sie die Million erreicht hat und nur 80 Jahre bis sie die Milliarde erreicht.
+Wenn du ein Papier 42 mal faltest ist es so dick das es bis zu Mond reicht.
+Das Gegenteil von Vakuum ist Plenum.
+Die Hälfte aller falschen Zähne haben eine bestimmte Form von Radioaktivität.
+Die n-te Wurzel aus "a" ist die jenige nicht-negative Zahl, deren n-te Potenz a ergibt.
+Der Weltrekord im Schaukelstuhl-Schaukeln beträgt 480 Stunden.
+72% aller Menschen glauben an wahllos gewählte Statistiken.
+86% nehmen sich was für den nächsten Tag vor und machen es dann doch nicht.
+Über 2500 Linkshänder sterben jährlich weil sie Produkte benutzen, die eigentlich für Rechtshänder gemacht werden.
+Experten des Paranormalen behaupten, dass die beste Zeit für die Fähigkeit Geister zu sehen, im Alter von 7 Jahren ist.
+Wenn man das Wasser beim Zähneputzen laufen lässt, können bis zu 15l verloren gehen.
+Ein durchschnittlicher Eisberg wiegt 20000000 Tonnen.
+Das durchschnittliche Brötchen eines bekannten Fastfood-Giganten hat 198 Sesam-Körner.
+Die Durchschnittsgeschwindigkeit eines Zuges, inklusive der Stops, ist 33 km/h.
