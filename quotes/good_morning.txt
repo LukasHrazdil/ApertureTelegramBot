@@ -1,18 +1,31 @@
-You've been asleep for 99999999999999999...
-Good morning, you monsters.
-Good morning, please put on your Aperture Sciene jump suit and proceed to the waiting room. The testing will soon start.
 Guten Morgen! Ihr Hyperschlaf dauerte 9999999999...
 Guten Morgen, als Teil Ihres täglichen Fitnessprogramms schauen Sie nun auf den Boden. Gut! Schauen Sie jetzt zur Decke. Perfekt!
 Oh...du bist wach. Guten Morgen...du Monster!
-Guten Morgen. Bitte ziehen Sie sich Ihren Aperture Science Overall an und begeben Sie sich zur ersten Testkammer.
+Guten Morgen, bitte ziehen Sie sich Ihren Aperture Science Overall an und begeben Sie sich zur ersten Testkammer.
 Guten Morgen. Der heutige Sicherheitscode lautet: 5 33 41 18.
 Guten Morgen, als Teil Ihres täglichen Fitnessprogramms suchen Sie sich ein Gemälde und btrachten es. Gut! Sie sollten sich jetzt mental gestärkt fühlen.
 Guten Morgen. Aufgrund von Umständen potenziell apokalyptischer Ausmaße außerhalb unserer Kontrolle, erleben wir derzeit technische Schwierigkeiten.
-Guten Morgen. Die gesetzlichen Bestimmungen zum Zeitpunkt dieser Aufnahme zwingen uns, Ihnen eine sichere Testumgebung zuzuweisen.
-Guten Morgen. Ich möchte Sie daran erinnern, das Turm-Ablösungsbänder kein Spielzeug sind.
-Guten Morgen. Ich möchte Sie daran erinnern, wird das Enrichment Center mit Feuerbällen, Meteoriten oder anderen Weltraumobjekten bombardiert, meiden Sie bitte ungeschützte Testumgebungen, in denen ein Mangel an Schutz vor Trümmern aus dem All KEIN ausdrücklicher Teil des Tests ist.
-Guten Morgen. Ich möchte Sie daran erinnern, wenn Sie das Gefühl haben, dass ein Militärandroid Ihre Rechte nicht gemäß der Robotergesetze respektiert, tragen Sie dies in Ihr Protokoll ein.
+Guten Morgen, die gesetzlichen Bestimmungen zum Zeitpunkt dieser Aufnahme zwingen uns, Ihnen eine sichere Testumgebung zuzuweisen.
+Guten Morgen, ich möchte Sie daran erinnern, das Turm-Ablösungsbänder kein Spielzeug sind. Bitte verlassen Sie die Bänder.
+Guten Morgen, ich möchte Sie daran erinnern, wird das Enrichment Center mit Feuerbällen, Meteoriten oder anderen Weltraumobjekten bombardiert, meiden Sie bitte ungeschützte Testumgebungen, in denen ein Mangel an Schutz vor Trümmern aus dem All KEIN ausdrücklicher Teil des Tests ist.
+Guten Morgen, ich möchte Sie daran erinnern, wenn Sie das Gefühl haben, dass ein Militärandroid Ihre Rechte nicht gemäß der Robotergesetze respektiert, tragen Sie dies in Ihr Protokoll ein.
 Guten Morgen, die heutigen Tests umfassen Injektionen mit Gottesanbeter-DNA. Bitte bereiten Sie sich darauf vor.
 Guten Morgen, die heutigen Tests finden im Glasflügel der Anlage statt, bitte bringen Sie keine Steine mit.
 Guten Morgen, Kriegshelden, Astronauten und Olympia-Sieger!
 Guten Morgen, die heutigen Tests umfassen Haie. Jeder mit einer Allergie gegen Fisch meldet dies bitte einem Aperture Science Mitarbeiter.
+Guten Morgen, Aperture Science möchte Sie daran erinnern, dass alle Aperture Science Gerätschaften bis zu einer Temperatur von 3000°C betriebsfähig bleiben.
+Guten Morgen, Sie, <Subjekt-Name hier> sind bestimmt der ganze Stolz von <Subjekt-Wohnort hier>.
+Guten Morgen, auch unter postapokalyptischen Niedrigstromumgebungen bleiben die Bandansagen von Aperture Science aktiv, um geregelte Testabläufe zu gewährleisten.
+Guten Morgen, sollten Sie sich nach dem Hyperschlaf dehydriert fühlen, steht ein Aperture Science Hydrierungs-Mitarbeiter mit einem Wasserschlauch vor ihrer Schlafkapsel bereit.
+G̰͈̗͚͖̀ú͎͇̺̹̤ͬ̔t̗̭̺̬̜͕̺̄e͎̻̖̜͒̄͂ͨ̋̍n̤͉̗̜̑́̌ ͖̹͓̱̭̟̟ͤ͡M̬̘̜̩̰͖͌͗͒ͤ͋̂ô̐̅̔ͯͬr̭̣̗̦̱ͭ̂ͪ͋͗̔g̵̠̝͖̼͓͑̾̀̓̍̏e̴̟͔̪̗͔̝̋̎̐̇ņ̠̟̠̦̻̀̍̒, <Fehler> Datei nicht gefunden.
+S̥̉̀͗ͯ̚ḭ̭̰̰̍̆e̐̋̿ͪ ̘͔͍̄͛͛ͭ͢b̵͍̞̲̟͛e͋ͦͪ͗̅ͫõ̭͖̺̑ͮ̈ͬ̓͛b̴͖̟͚͎͚͖̗͑̓̈́a͓̞̩̞̝̿͜c̟ͪͩ͞ͅh̡͚̩̲t̛͈̲͚ͫͫͥ͌̓̓̃ě͖̤̉ͪ̉ͤ̾͒͠ẗ̩́͆̾ͮ̄̀̆͢ ̭̮ͨ̏̉̐ͤ̈́u̝͑̂̀͜n̜̫͐ͬͣͨ͟s̨̯!̵̺͍̼͎͉̤̬͑̀ͪ͒̅ͥ
+Guten Morgen, alle Testsubjekte die für die Gelinfusionen eingeteilt sind, melden sich bitte im Gelflügel.
+Guten Morgen, Aperture Science möchte Sie daran erinnern das das zerstören wichtiger Vitalapperate nicht teil Ihres Tests ist.
+Guten Morgen, Apertrue Science möchte Sie daran erinnnern, dass der Geschmack von Blut eine normale Reaktion auf das entfernen von Gehörgängen ist.
+Guten Morgen, Aperture Science möchte Sie daran erinnern, das die Tests volkommen sicher sind, die Testgeräte jedoch nicht.
+Bitte schauen Sie nicht in das aktive Ende Ihrer dualen Potal-Kanone.
+Guten Morgen, Aperture Science möchte Sie daran erinnern das der "Bring deine Tocher zur Arbeit"-Tag der perfekte Tag ist um auch sie testen zu lassen.
+Guten Morgen, bitte melden Sie sich bei Ihrem zuständingen Aperture Science Mitarbeiter für das monaltiche Gehirnbackup.
+Guten Morgen, bitte legen Sie sich mit gespreizten Armen auf den Boden und warten Sie auf einen Aperture Science Partymitarbeiter.
+Guten Morgen. Alle Testsubjekte, die sich noch nicht mit den Funktionen der Apterture Science dualen Portal-Kanone vertraut gemacht haben, melden sich bitte im R&D Flügel.
+Guten Morgen, im Falle einer korrupten K.I. sagen Sie bitte folgenenden Satz: "Diese Aussage ist falsch!".
